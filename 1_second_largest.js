@@ -3,3 +3,4 @@ arr = arr.filter((value)=>{
   return value!==Math.max(...arr)
 })
 console.log("Second Largest Number: ",Math.max(...arr))
+//Second Largest Number:  62
